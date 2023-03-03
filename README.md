@@ -1,4 +1,4 @@
-# SVM
+# Support Vector Machines
 This lab code basic Support Vector Machines with Python.
 
 Here is an example of the plots that classify data with three different kernels (linear, polynomial, RBF).
