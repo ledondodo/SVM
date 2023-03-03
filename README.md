@@ -7,4 +7,6 @@ Here is an example of the plots that classify data with three different kernels.
   <img src="img/plot-lin.png" width=40% height=40%>
   &nbsp; &nbsp; &nbsp;
   <img src="img/plot-poly.png" width=40% height=40%>
+  &nbsp; &nbsp; &nbsp;
+  <img src="img/plot-rbf.png" width=40% height=40%>
 </p>
