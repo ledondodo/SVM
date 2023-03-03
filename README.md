@@ -19,7 +19,7 @@ Read through the code and edit the file to change some parameters. Try to change
 
 ## Python and libraries
 This project was done using Python 3.7.16.<br/>
-Libraries needed: numpy, scipy, sklearn, seaborn, jupyter, matplotlib, pyqt.
+Libraries: numpy, scipy, sklearn, seaborn, jupyter, matplotlib, pyqt.
 
 ## Collaborators
 I had this lab with one classmate.
