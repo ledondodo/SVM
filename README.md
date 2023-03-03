@@ -15,7 +15,7 @@ Here is an example of the plots that classify data with three different kernels 
 Open the directory using the terminal, then run [main.py](main.py) using the command `python main.py`.
 The plot will be displayed and save into the project folder as "svmplot.pdf". The PDF file is overwrited at every run. To save a plot PDF, just change its name, or move it to another directory.
 
-Read through the code to change some parameters. Try to change the kernel (initially linear), the kernel degrees, or the data points. Some indications are given by the comments.
+Read through the code and edit the file to change some parameters. Try to change the kernel (initially linear), the kernel degrees, or the data points. Some indications are given by the comments.
 
 ## Python and libraries
 This project was done using Python 3.7.16.
