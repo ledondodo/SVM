@@ -18,7 +18,7 @@ The plot will be displayed and save into the project folder as "svmplot.pdf". Th
 Read through the code and edit the file to change some parameters. Try to change the kernel (initially set to linear), the kernel degrees, or the data points. Some indications are given in comments.
 
 ## Python and libraries
-This project was done using Python 3.7.16.
+This project was done using Python 3.7.16.<br/>
 Libraries needed: numpy, scipy, sklearn, seaborn, jupyter, matplotlib, pyqt.
 
 ## Collaborators
